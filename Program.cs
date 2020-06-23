@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Tugas8
+namespace TugasLab8
 {
     class Program
     {
